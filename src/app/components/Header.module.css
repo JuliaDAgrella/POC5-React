@@ -1,0 +1,19 @@
+.titulos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    background-color: #f5f39f;
+    font-size: 15pt;
+    
+
+}
+
+.titulo{
+    padding: 10px;
+}
+
+.receita{
+    text-align: center;
+    font-size: 30pt;
+}

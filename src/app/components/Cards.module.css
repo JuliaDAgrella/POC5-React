@@ -1,0 +1,39 @@
+.cards{
+    text-align: justify;
+}
+
+.cards :hover{
+    background-color: #dbaf4f;
+}
+
+.cardB{
+    display: flex;
+    margin: 40px;
+    width: 60%;
+    background-color: #ebcc8a;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+.cardP{
+    display: flex;
+    margin: 40px;
+    width: 60%;
+    background-color: #ebcc8a;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    
+}
+
+.cardP > Image{
+    display: flex;
+}
+
+
+.textos{
+    margin-left: 10px;
+    display:flex;
+    flex-direction: column;
+}
