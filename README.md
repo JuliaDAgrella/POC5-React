@@ -27,6 +27,8 @@ Header.js
 Header.module.css.
 ```
 
+3-) Javascript
+
 - Dentro do arquivo src/page.js, acrescente o seguinte código:
 ```javascript
 import Cards from "./components/Cards";
