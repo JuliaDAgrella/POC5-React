@@ -93,7 +93,7 @@ export default function Header(){
 ```
 Neste código ele acrescenta um cabeçalho com um título e dois subtítulos na header da página.
 
-3-) CSS
+4-) CSS
 
 - Os estilos globais são ótimos para criar regras que valem para toda a aplicação, garantindo que todas as páginas tenham uma aparência uniforme.
 
@@ -174,7 +174,7 @@ Neste código as classes .cards, .cardB e .cardP controlam a aparência e o layo
 ```
 Neste código a classe .titulos usa flexbox para organizar seus elementos em uma linha, a classe .titulo adiciona um espaçamento ao redor dos elementos e a classe .receita centraliza o texto e aumenta o tamanho da fonte. Essas mudanças serão aplicadas apenas na aparência da header da página.
 
-4-) Execução
+5-) Execução
 
 - Para executar a aplicação digite os seguintes comandos no terminal:
 ```
@@ -182,6 +182,6 @@ npm run build
 npm start
 ```
 
-5-) Conclusão
+6-) Conclusão
 
 - Em resumo, a Prova de Conceito 5 nos permitiu aplicar o que aprendemos sobre React em aula ao longo desse projeto.
